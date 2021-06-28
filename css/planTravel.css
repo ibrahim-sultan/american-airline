@@ -1,0 +1,253 @@
+
+*{
+    margin: 0px;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+.navbar{
+   background-color: white !important;
+}
+
+.nav-link{
+    color:#0078d2 !important ;
+}
+
+
+a:hover{
+   color: rgb(221, 68, 68) !important;
+   transform: scale(1.1);
+   transition: all 1s;
+   text-decoration: underline !important;
+}
+
+.download{
+    background-color: rgb(5, 87, 141);
+    height:95vh;
+}
+
+h3{
+    padding-top:44px;
+    color: white;
+    font-size: 27px;
+}
+
+.span-1{
+    font-size: 15px;
+}
+
+@media screen and (max-width:789px){
+    .download{
+        height: 160vh;
+    }
+
+    .col-lg-8{
+        margin-top: 30px;
+    }
+    .caption-3{
+        display: none;
+    }
+    .caption-4{
+        display: none;
+    }
+    .tour{
+        height: 260vh !important;
+
+    }
+}
+
+@media  screen and (max-width:768px) and (max-width:480px){
+    .grass{
+        margin-left:30px;
+    }
+
+    .one{
+        width:307px;
+        margin-left: 27px;
+        height: 450px;
+    }
+
+    .two{
+        width: 300px;
+    }
+
+    .three{
+        width: 300px;
+        margin-top:35px;
+        margin-right:-50px;
+    }
+
+    .four{
+        width: 300px;
+    }
+
+    .five{
+        width: 300px;
+        margin-top: 35px;
+        margin-right: 50px;
+    }
+   
+   .a{
+       margin-left: 25px;
+   }
+
+   .under{
+       margin-left: 15px;
+   }
+  
+   .col-lg{
+       width: 200px;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* TOUR AND ACTIVITIES */
+
+.tour{
+    height: 95vh;
+}
+
+p{  margin-left:80px;
+    color:#0078d2;
+    font-size:24px;
+}
+
+.container{
+    position: relative;
+}
+.tour h3{
+    color: black;
+}
+
+.round-2{
+    margin-left: 34px;
+}
+
+.round-3{
+    margin-left: 34px;
+}
+
+span{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.round-1{
+    position: relative;
+}
+.caption{
+    position: absolute; 
+    top: 7px; 
+    left: 110px; 
+    color: white;
+    text-align: center;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.round-2{
+    position: relative;
+}
+.caption-1{
+    position: absolute; 
+    top: 5px; 
+    left: 125px; 
+    color: white;
+    text-align: center;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.round-3{
+    position: relative;
+}
+.caption-2{
+    position: absolute; 
+    top: 125px; 
+    left: 125px; 
+    color: white;
+    text-align: center;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.caption-3{
+    position: absolute; 
+    top: 125px; 
+    left: 455px; 
+    color: white;
+    text-align: center;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.caption-4{
+    position: absolute; 
+    top: 5px; 
+    left: 455px; 
+    color: white;
+    text-align: center;
+    text-decoration:underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* TRAVEL NEWS */
+
+.travel{
+    height: 60vh;
+}
+
+h4{
+    color: #0078d2;
+    font-size: 24px;
+}
+
+.under{
+    color: rgba(19, 18, 18, 0.666);
+    font-size: 15px;
+}
+
+button{
+    background-color: white;
+    color: #0078d2;
+}
+
+
+
+
+
+/* FOOTER SECTION */
+
+footer{
+    background-color: #0078d2;
+    height: 6vh;
+    color: white;
+    text-align: center;
+} 
+
+
+
+

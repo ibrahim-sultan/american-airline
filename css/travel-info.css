@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+.navbar{
+   background-color: white !important;
+}
+
+.nav-link{
+    color:#0078d2 !important ;
+}
+
+
+a:hover{
+   color: rgb(221, 68, 68) !important;
+   transform: scale(1.1);
+   transition: all 1s;
+   text-decoration: underline !important;
+}
+
+
+
+                  /* ARRIVE EARLY SECTION */
+
+  h3{
+      margin-top:20px;
+      margin-left:45px;
+      color: #0078d2;
+      font-size:35px;
+  }
+
+  .far{
+      color: green;
+      font-size: 24px;
+      margin-top: 15px;
+      margin-left: 25px;
+  }
+
+  h4{
+      margin-left: 25px;
+      font-size: 17px;
+  }
+
+  hr{
+      box-shadow: 4px 4px 4px;
+  }
+
+  h5{
+      font-size: 30px;
+      color: #0078d2;
+      margin-left: 25px;
+      font-weight: lighter;
+  }
+
+
+              /* TRAVEL SECTION */
+.row{
+    margin-left: 25px;
+}
+
+h6{
+    font-size: 25px;
+    font-weight: lighter;
+    color: #a5c8e1e3;
+}
+
+
+img{
+   width: 290px;
+   height: 230px;
+   margin-top: 15px;
+}
+
+.fal {
+    margin-bottom: 35px;
+    font-size: 10px;
+    color: #0078d2;
+}
+
+
+h6 a {
+    font-size: 20px;
+}
+.fas{
+    margin-right:10px;
+}
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+            /* FOOTER SECTION */
+
+footer{
+    background-color: #0078d2;
+    height: 6vh;
+    color: white;
+    text-align: center;
+} 
